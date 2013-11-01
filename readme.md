@@ -48,7 +48,7 @@ dog.bark()
 ```
 
 ### Note
-juliangruber’s [module](https://github.com/juliangruber/stream) is almost identical to this one, but it depends on the [component](https://github.com/component/component) package manager; this made it inappropriate for me.
+juliangruber’s [module](https://github.com/juliangruber/stream) is almost identical to this one, but it depends on the [component](https://github.com/component/component) package manager.
 
 
 ### License
